@@ -1,4 +1,4 @@
-package makelog
+package logmaker
 
 import (
 	"bytes"
